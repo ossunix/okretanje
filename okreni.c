@@ -12,7 +12,7 @@ int okreni(int n, int r)
 int main()
 {
 	int broj = 123456;
-	printf("%d", okreni(broj, 0));
+	printf("%d\n", okreni(broj, 0));
 	
 	return 0;
 }
